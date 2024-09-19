@@ -1,3 +1,7 @@
+"""
+Programa para redondear cualquier numero de mas de
+dos decimales a unicamente dos decimales
+"""
 from math import trunc
 def redondeo(n):
     x=n

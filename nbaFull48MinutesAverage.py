@@ -1,3 +1,8 @@
+"""
+Programa para calcular cuantos puntos generaria un jugador de NBA
+en los 48 minutos de un artido en base a los puntos que ha generado en cierto lapso de
+tiempo
+"""
 def extrapolate_ppg(ppg, mpg):
     # Si PPG o MPG es 0, el resultado es 0
     if mpg == 0:

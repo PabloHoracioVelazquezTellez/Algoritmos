@@ -21,4 +21,4 @@ def calculate_pet_years(humanYears):
 humanYears = 10  # Para cambiar los resultados de la funcion
 print(calculate_pet_years(humanYears))
 print(type(calculate_pet_years(humanYears)))
-print("Primer cambio al codigo :DDD")
+print("Primer cambio al codigo :D")

@@ -1,3 +1,6 @@
+"""
+Programa que calcula la presion total de la mezcla de dos gases en un contenedor
+"""
 def calcular_presion_total(M1, M2, m1, m2, V, T_celsius):
     R = 0.082  # Constante de los gases en dm^3·atm·K^−1·mol^−1
     T_kelvin = T_celsius + 273.15  # Convertir temperatura a Kelvin

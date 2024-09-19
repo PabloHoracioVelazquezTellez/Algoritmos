@@ -1,3 +1,7 @@
+"""
+Programa que calcula el rango de edades recomendado para que
+una persona busque relacionarse amorosamente :)
+"""
 def rango_edades(edad):
     if edad>=1 and edad<=100:
         if edad<=14:

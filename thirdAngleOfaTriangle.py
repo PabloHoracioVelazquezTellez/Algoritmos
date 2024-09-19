@@ -1,3 +1,7 @@
+"""
+Programa para calcular el valor de un angulo X de un triangulo
+haciendo uso del valor de sus otros dos angulos
+"""
 def tercer_angulo(x,y):
     if x >0 and y>0 and x+y <180:
         z=180-(x+y) #La suma de los angulos de un triangulo siempre da 180 grados como resultado
