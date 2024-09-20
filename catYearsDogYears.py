@@ -22,3 +22,4 @@ humanYears = 10  # Para cambiar los resultados de la funcion
 print(calculate_pet_years(humanYears))
 print(type(calculate_pet_years(humanYears)))
 print("Primer cambio al codigo :D")
+#CAMBIO PARA CAPTURA DEL PUNTO 41
